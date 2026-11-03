@@ -4,6 +4,8 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/SuvadipPanja/kalimata_sweets)
 ![GitHub stars](https://img.shields.io/github/stars/SuvadipPanja/kalimata_sweets?style=social)
 
+<img src="docs/screenshot.png" alt="Screenshot of the live site" width="100%" />
+
 A world-class, ultra-premium web application perfectly designed for **Maa Kali Mistanno Bhandar**, a renowned Bengali sweet shop in Purbba Radhanagar. This beautifully engineered digital storefront highlights authentic Bengali confectionary, curated wedding specials (Biye Barir Totto), and traditional regional staples using cutting-edge e-commerce UI design. 
 
 This project was carefully designed and built by **Suvadip Panja**.
